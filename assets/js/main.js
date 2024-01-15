@@ -133,6 +133,7 @@ let swiper = new Swiper(".mySwiper", {
   },
   mousewheel: true,
   keyboard: true,
+  infinity: true
 });
 
 // SCROLL SECTIONS ACTIVE LINK
